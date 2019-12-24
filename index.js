@@ -1,4 +1,4 @@
-//amocana 1
+//davaleba 1
 let userForm = document.querySelector("#user-search");
 userForm.onsubmit = (event) => submitHandler(event);
 
@@ -37,7 +37,7 @@ function submitHandler(event) {
 } 
 
 
-//amocana 2
+//davaleba 2 
 const axios = require('axios');
 
 function showComments(event) {
